@@ -4,8 +4,8 @@ const util = require('./utils')
 const conf = {
   host: 'localhost',
   user: 'root',
-  password: 'root',
-  database: 'testdb',
+  password: 'wf123456',
+  database: 'hongfeng',
   port: '3306',
   multipleStatements: true    // 多语句查询
 }
